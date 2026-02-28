@@ -1,8 +1,7 @@
-db.sqlite3
 venv
-.venv
 __pycache__
 *.pyc
+.env
+.git
+db.sqlite3
 staticfiles/
-gunicorn.ctl
-
